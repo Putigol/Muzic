@@ -57,4 +57,5 @@ Muzic là ứng dụng nghe nhạc hiện đại, hỗ trợ phát nhạc trực
 ## Thành viên thực hiện
 - **Lê Phước Ngọc Tân**
 - **Phan Ngọc Sơn**
-- **Hoàng Văn Tài** 
+- **Hoàng Văn Tài**
+- **Nguyễn Phúc Thịnh** 
